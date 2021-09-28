@@ -9,10 +9,10 @@ pip install -r requirements.txt
 ## 3.Runing
 Before running commands, you can set the hyperparameters in config.py. Please run the following commands and testing RSAN on different datasets:   
 ```
-$ bash ../run/cub.sh   
-$ bash ../run/sun.sh   
-$ bash ../run/flo.sh  
-$ bash ../run/awa1.sh 
-$ bash ../run/awa2.sh   
-$ bash ../run/apy.sh
+$ bash run/cub.sh   
+$ bash run/sun.sh   
+$ bash run/flo.sh  
+$ bash run/awa1.sh 
+$ bash run/awa2.sh   
+$ bash run/apy.sh
 ```
