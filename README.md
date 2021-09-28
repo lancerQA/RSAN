@@ -1,6 +1,6 @@
 # RSAN
 ## 1.Preparing Dataset and Model
-Datasets can be download from Xian et al. (CVPR2017) and take them into dir data.
+Datasets can be download from [Xian et al. (CVPR2017)](https://datasets.d2.mpi-inf.mpg.de/xian/xlsa17.zip) and take them into dir data.
 ## 2.Requirements
 
 ## 3.Runing
