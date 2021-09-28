@@ -4,7 +4,7 @@ Datasets can be download from Xian et al. (CVPR2017) and take them into dir data
 ## 2.Requirements
 The code implementation of RSAN mainly based on PyTorch. All of our experiments run in Python 3.8.8.
 ## 3.Runing
-Before running commands, you can set the hyperparameters in config.py. Please run the following commands and testing RSAN on different datasets:
+Before running commands, you can set the hyperparameters in config.py. Please run the following commands and testing RSAN on different datasets:   
 $ python ./image-scripts/run-cub.py   
 $ python ./image-scripts/run-sun.py   
 $ python ./image-scripts/run-flo.py   
